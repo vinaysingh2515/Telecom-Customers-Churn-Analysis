@@ -1,3 +1,5 @@
+![Summary_Page](https://github.com/user-attachments/assets/95467001-81e6-4977-8f9c-eefa7612c1f1)
+![Summary and  Region+Page](https://github.com/user-attachments/assets/e122495c-ff93-4176-88c3-72ac5c9875ba)
 # Telecom Customers Churn Analysis
 Object: Create an entire ETL process in a database &amp; power bi dashboard to utilize the customer data to analyze business requirement.
 
@@ -161,3 +163,4 @@ b.       Contract – Churn Count
 c.       Tenure Group – Churn Count
 4.  Geographic
 a.       State – Churn Count
+[Uploading Customer_Data.csv…]()
